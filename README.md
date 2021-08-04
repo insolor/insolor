@@ -5,7 +5,7 @@ About me:
 - Backend/desktop software developer
 
   <details>
-  Stacks:
+  <summary>Stacks</summary>
 
     - Python backend:
       - Django, DRF
