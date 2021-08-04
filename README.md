@@ -2,7 +2,7 @@
 
 About me:
 
-- Backend/desktop software developer.
+- Backend/desktop software developer
 
   <details>
   Stacks:
