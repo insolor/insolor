@@ -27,7 +27,7 @@ About me:
 
 - Founder of the Dwarf Fortress localization project: https://github.com/dfint
 
-- Active stackoverflow.com contributor (mostly, in the Russian segment):
+- Active stackoverflow.com contributor (mostly, in the [Russian segment](https://ru.stackoverflow.com/users/1365)):
 
     [![profile for insolor on Stack Exchange, a network of free, community-driven Q&amp;A sites][1]][2]
     
