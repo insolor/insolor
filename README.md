@@ -31,7 +31,7 @@ About me:
 
     [![profile for insolor on Stack Exchange, a network of free, community-driven Q&amp;A sites][1]][2]
     
-- Participated in translation to Russian such application as [Poedit][3], [Spyder IDE][4], [Cutter][5]: https://crowdin.com/profile/insolor
+- Participated in Russian localization of such application as [Poedit][3], [Spyder IDE][4], [Cutter][5]: https://crowdin.com/profile/insolor
 
 - Made some minor contributions to the Open Source
 
