@@ -5,25 +5,27 @@ About me:
 - Backend/desktop software developer
 
   <details>
-  <summary>Stacks</summary>
-
+  <summary>Python stack</summary>
+  
     - Python backend:
       - Django, DRF
-      - Flask
-      - FastAPI
+      - Flask, SQLAlchemy
+      - FastAPI, Pydantic, SQLModels
     - Python desktop:
       - tkinter (in case someone need it)
-
-    ---
+  </details>
   
-    - Java 1.8 - 11+, Kotlin
+  <details>
+  <summary>Java/Kotlin stack</summary>
+  
+  - Java 1.8 - 11+, Kotlin
     - Backend:
       - JavaEE
       - Ktor
     - Desktop:
       - JavaFX, TornadoFX, JFoenix
-
   </details>
+
 
 - Founder of the Dwarf Fortress localization project: https://github.com/dfint
 
