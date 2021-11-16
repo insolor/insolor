@@ -35,7 +35,7 @@ About me:
     
 - Participated in Russian localization of such application as [Poedit][3], [Spyder IDE][4], [Cutter][5] and others. See [my profile on crowdin.com][6].
 
-- Made some minor contributions to the Open Source (see my merged [pull-requests][7])
+- Made some minor contributions to the Open Source (see my [pull-requests][7])
 
   [1]: https://stackexchange.com/users/flair/6028457.png?theme=dark
   [2]: https://stackexchange.com/users/6028457/insolor
