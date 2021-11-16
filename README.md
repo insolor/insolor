@@ -43,4 +43,4 @@ About me:
   [4]: https://www.spyder-ide.org
   [5]: https://cutter.re
   [6]: https://crowdin.com/profile/insolor
-  [7]: https://github.com/pulls?q=is%3Apr+author%3Ainsolor+archived%3Afalse+is%3Amerged+-user%3Adfint+-user%3Ainsolor
+  [7]: https://github.com/pulls?q=is%3Apr+author%3Ainsolor+-user%3Adfint+-user%3Ainsolor
