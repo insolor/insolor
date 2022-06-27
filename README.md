@@ -39,7 +39,7 @@ About me:
 
 [![Insolor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=insolor&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insolor&hide=javascript,css,html&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insolor&hide=javascript,css,html&layout=compact&theme=ayu-mirage&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=insolor&theme=ayu-mirage)](https://git.io/streak-stats)
 
