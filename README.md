@@ -41,7 +41,7 @@ About me:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insolor&hide=javascript,css,html&layout=compact&theme=ayu-mirage&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=insolor&theme=ayu-mirage)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=insolor&theme=ayu-mirage&mode=weekly)](https://git.io/streak-stats)
 
   [1]: https://ru.stackoverflow.com/users/1365
   [2]: https://stackexchange.com/users/flair/6028457.png?theme=dark
