@@ -37,8 +37,6 @@ About me:
 
 - Made some minor contributions to the Open Source
 
-[![Insolor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=insolor&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
   [1]: https://ru.stackoverflow.com/users/1365
   [2]: https://stackexchange.com/users/flair/6028457.png?theme=dark
   [3]: https://stackexchange.com/users/6028457/insolor
