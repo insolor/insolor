@@ -18,7 +18,7 @@ About me:
 - Participated in the localization of such applications as [Poedit][4], [Spyder IDE][5], [Cutter][6] and others. See [my profile at crowdin.com][7].
 
 - Made some contributions to Open Source
-  - The first documented Open Source activity is dated to the year of 2014. Those were [some contributions][8] to the [OpenEuphoria][9] project.
+  - The first documented Open Source activity is dated to the year of 2014. Those were [some improvements][8] to the [OpenEuphoria][9] project.
   - Other more or less significant contribution was a fix to the pymorphy2 project: https://github.com/pymorphy2/pymorphy2/pull/69
   - Lots of small fixes here and there, text fixes, translations, etc.
   
