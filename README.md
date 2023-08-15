@@ -6,6 +6,7 @@ About me:
   - Most used: Java 1.8, 11, 17
   - Java EE, Spring, etc. for server side
   - JavaFX, JFoenix for desktop
+  - PostgreSQL databases
   
 - Hobby Python developer since 2012-2013. Unfortunately, it doesn't directly translate into years of work experience, plus I haven't worked with popular frameworks (like Django).
 
