@@ -10,23 +10,22 @@ About me:
   
 - Hobby Python developer since 2012-2013. Unfortunately, it doesn't directly translate into years of work experience, plus I haven't worked with popular frameworks (like Django).
 
-- Founder of the Dwarf Fortress localization project: https://github.com/dfint
-
-- Active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
-
-    [![Profile for insolor on Stack Exchange, a network of free, community-driven Q&amp;A sites][2]][3].
-    
-- Participated in the localization of such applications as [Poedit][4], [Spyder IDE][5], [Cutter][6] and others. See [my profile at crowdin.com][7].
+- Current projects:
+  - The Dwarf Fortress localization project: https://github.com/dfint
+  - async-tkinter-loop module: https://github.com/insolor/async-tkinter-loop
+  - Trying to revive the pymorphy2 project: https://github.com/pymorphy2-fork
 
 - Made some contributions to Open Source
   - The first documented Open Source activity is dated to the year of 2014. Those were [some improvements][8] to the [OpenEuphoria][9] project.
   - Other more or less significant contribution was a fix to the pymorphy2 project: https://github.com/pymorphy2/pymorphy2/pull/69
   - Lots of small fixes here and there, text fixes, translations, etc.
-  
-- Current projects:
-  - The Dwarf Fortress localization project: https://github.com/dfint
-  - async-tkinter-loop module: https://github.com/insolor/async-tkinter-loop
-  - Trying to revive the pymorphy2 project: https://github.com/pymorphy2-fork
+
+- Active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
+
+    [![Profile for insolor on Stack Exchange, a network of free, community-driven Q&amp;A sites][2]][3].
+
+- Participated in the localization of such applications as [Poedit][4], [Spyder IDE][5], [Cutter][6] and others. See [my profile at crowdin.com][7].
+
 <!--
 - I'm also a language/language-learning enthusiast:
   - Bilingual person: Russian and Ukrainian
