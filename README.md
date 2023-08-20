@@ -11,9 +11,14 @@ About me:
 - Hobby Python developer since 2012-2013. Unfortunately, it doesn't directly translate into years of work experience, plus I haven't worked with popular frameworks (like Django).
 
 - Current projects:
-  - The Dwarf Fortress localization project: https://github.com/dfint
-  - async-tkinter-loop module: https://github.com/insolor/async-tkinter-loop
-  - Trying to revive the pymorphy2 project: https://github.com/pymorphy2-fork
+  - [The Dwarf Fortress fan localization project](https://github.com/dfint)
+    - We develop tools for the localization and help enthisiasts with localization to different langauges (there are about 20 languages with an active localization progress)
+
+  - **async-tkinter-loop** module: https://github.com/insolor/async-tkinter-loop
+    - This is a small library which helps to use asynchronous code with tkinter GUI library for Python
+
+  - Trying to revive the **pymorphy2** project: https://github.com/pymorphy2-fork
+    - **pymorphy2** is a morphological analyzer and an inflection engine for Russian, Ukrainian, Belarusian, and potentially it can be used for other slavic languages. Right now the original project is abandoned (see [discussion](https://github.com/pymorphy2/pymorphy2/issues/160)), so I'm trying to continue it's development as a fork project.
 
 - Made some contributions to Open Source
   - The first documented Open Source activity is dated to the year of 2014. Those were [some improvements][8] to the [OpenEuphoria][9] project.
