@@ -26,6 +26,8 @@ About me:
 
 - Participated in the localization of such applications as [Poedit][4], [Spyder IDE][5], [Cutter][6] and others. See [my profile at crowdin.com][7].
 
+- [&#x1f4c8; My GitHub Stats](https://github.com/insolor/insolor/blob/master/stats.md)
+
   [1]: https://ru.stackoverflow.com/users/1365
   [2]: https://stackexchange.com/users/flair/6028457.png?theme=dark
   [3]: https://stackexchange.com/users/6028457/insolor
