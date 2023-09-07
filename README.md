@@ -22,6 +22,8 @@ About me:
 
 - Active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
 
+    [![Stack Exchange reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/1365?style=for-the-badge&logo=stackoverflow&color=blue)](https://ru.stackoverflow.com/users/1365)
+
     [![Profile for insolor on Stack Exchange, a network of free, community-driven Q&amp;A sites][2]][3].
 
 - Participated in the localization of such applications as [Poedit][4], [Spyder IDE][5], [Cutter][6] and others. See [my profile at crowdin.com][7].
