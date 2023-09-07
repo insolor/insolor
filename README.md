@@ -22,7 +22,7 @@ About me:
 
 - Active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
 
-    [![Stack Exchange reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/1365?style=for-the-badge&logo=stackoverflow&color=blue)](https://ru.stackoverflow.com/users/1365)
+    [![Stack Exchange reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/1365?style=for-the-badge&logo=stackoverflow&color=blue)](https://ru.stackoverflow.com/users/1365/insolor)
 
     [![Profile for insolor on Stack Exchange, a network of free, community-driven Q&amp;A sites][2]][3].
 
