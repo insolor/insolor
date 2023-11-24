@@ -8,7 +8,7 @@ About me:
   - JavaFX, JFoenix for desktop
   - PostgreSQL databases
   
-- Hobby Python developer since 2012-2013. Unfortunately, it doesn't directly translate into years of work experience, plus I haven't worked with popular frameworks (like Django).
+- Hobby Python developer since 2012-2013
 
 - Current projects:
   - [The Dwarf Fortress fan localization project](https://github.com/dfint)
