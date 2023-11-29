@@ -12,7 +12,7 @@ About me:
 
 - Current projects:
   - [The Dwarf Fortress fan localization project](https://github.com/dfint)
-    - We develop tools for the localization and help enthisiasts with localization to different langauges (there are about 20 languages with an active localization progress)
+    - We develop tools for the localization and help enthisiasts with localization to different languages (there are about 20 languages with an active localization progress)
 
   - **async-tkinter-loop** module: https://github.com/insolor/async-tkinter-loop
     - This is a small library which helps to use asynchronous code with tkinter GUI library for Python
