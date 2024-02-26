@@ -2,7 +2,10 @@
 
 About me:
 
-- Current job: Java Backend + Desktop Developer
+- Current job: Python Backend Developer
+  - FastAPI framework
+
+- Previous job (4+ years): Java Backend + Desktop Developer
   - Most used: Java 1.8, 11, 17
   - Java EE, Spring, etc. for server side
   - JavaFX, JFoenix for desktop
