@@ -3,7 +3,10 @@
 About me:
 
 - Current job: Python Backend Developer
-  - FastAPI framework
+  - Python 3.8+
+  - PostgreSQL
+  - MongoDB
+  - GraphQL
 
 - Previous job (4+ years): Java Backend + Desktop Developer
   - Most used: Java 1.8, 11, 17
