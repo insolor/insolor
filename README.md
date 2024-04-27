@@ -2,7 +2,7 @@
 
 About me:
 
-- Current job: Python Backend Developer
+- Current job (since Feb-Mar 2024): Python Backend Developer
   - Python 3.8+
   - PostgreSQL
   - MongoDB
