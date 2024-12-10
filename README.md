@@ -38,7 +38,7 @@ About me:
   <summary>&#x1f4c8; My GitHub Stats</summary>
   
   ![insolor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=insolor&show_icons=true&line_height=33&count_private=true&theme=dark)  
-  ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=insolor&theme=dark)  
+  ![Contributions](https://streak-stats.demolab.com/?user=insolor&theme=dark)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insolor&layout=donut-vertical&hide=javascript,html,css&theme=dark)
 </details>
 
