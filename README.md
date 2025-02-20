@@ -3,7 +3,7 @@
 About me:
 
 - Current job (since March 2024): Python Backend Developer
-  - Python 3.8+
+  - Python 3.9+
   - PostgreSQL
   - MongoDB
   - GraphQL
