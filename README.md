@@ -23,10 +23,7 @@ About me:
   - **async-tkinter-loop** module: https://github.com/insolor/async-tkinter-loop
     - This is a small library which helps to use asynchronous code with tkinter GUI library for Python
 
-  - Trying to revive the **pymorphy2** project: https://github.com/pymorphy2-fork
-    - [**pymorphy2**](https://github.com/pymorphy2/pymorphy2) is a morphological analyzer and an inflection engine for Russian, Ukrainian, Belarusian, and potentially it can be used for other slavic languages. Right now the original project is abandoned (see [discussion](https://github.com/pymorphy2/pymorphy2/issues/160)), and I'm trying to continue it's development as a fork project.
-
-- Active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
+- Formerly (2011-2024), active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
 
     [![Stack Exchange reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/1365?style=for-the-badge&logo=stackoverflow&color=blue)](https://ru.stackoverflow.com/users/1365/insolor)
 
