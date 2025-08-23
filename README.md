@@ -23,6 +23,8 @@ About me:
   - **async-tkinter-loop** module: https://github.com/insolor/async-tkinter-loop
     - This is a small library which helps to use asynchronous code with tkinter GUI library for Python
 
+  - Some other small hobby projects. See pinned repositories below.
+
 - Formerly (2011-2024), active stackoverflow.com contributor (mostly on [ru.stackoverflow.com][1]):
 
     [![Stack Exchange reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/1365?style=for-the-badge&logo=stackoverflow&color=blue)](https://ru.stackoverflow.com/users/1365/insolor)
