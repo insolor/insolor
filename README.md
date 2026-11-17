@@ -20,9 +20,6 @@ About me:
   - [The Dwarf Fortress fan localization project](https://github.com/dfint)
     - We develop tools for the localization and help enthisiasts with localization to different languages (there are about 20 languages with an active localization progress)
 
-  - **async-tkinter-loop** module: https://github.com/insolor/async-tkinter-loop
-    - This is a small library which helps to use asynchronous code with tkinter GUI library for Python
-
   - Made some contributions to [pymorphy2](https://github.com/pymorphy2/pymorphy2) and [pymorphy3](https://github.com/no-plagiarism/pymorphy3), also maintaning their dependencies [DAWG](https://github.com/pymorphy2-fork/DAWG) and [DAWG-Python](https://github.com/pymorphy2-fork/DAWG-Python).
 
   - Some other small hobby projects. See pinned repositories below.
