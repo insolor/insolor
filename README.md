@@ -37,7 +37,8 @@ About me:
   
   ![insolor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=insolor&show_icons=true&line_height=33&count_private=true&theme=dark)  
   ![Contributions](https://streak-stats.demolab.com/?user=insolor&theme=dark)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insolor&layout=donut-vertical&hide=javascript,html,css,ruby,scss,makefile&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insolor&layout=donut-vertical&hide=javascript,html,css,ruby,scss,makefile&theme=dark)  
+  ![Yearly contributions by languages](https://raw.githubusercontent.com/insolor/contributions-by-language/refs/heads/main/contributions.svg)
 </details>
 
   [1]: https://ru.stackoverflow.com/users/1365
